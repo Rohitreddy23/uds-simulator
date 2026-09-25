@@ -1,3 +1,5 @@
+[![CI](https://github.com/Rohitreddy23/uds-simulator/actions/workflows/ci.yml/badge.svg)](https://github.com/Rohitreddy23/uds-simulator/actions)
+
 # UDS Diagnostics Simulator
 
 A **UDS (ISO 14229-1)** simulator in pure Python: a virtual ECU plus a
